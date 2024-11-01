@@ -1,0 +1,9 @@
+domains
+hosts
+httprobe
+*.tgz
+*.zip
+*.exe
+.idea/
+.idea
+*.txt
